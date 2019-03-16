@@ -4,7 +4,7 @@
 
 ## 安装
 
-通过 [package manager](https://docs.julialang.org/en/v1/stdlib/Pkg/) 进行安装,
+通过[包管理器](https://docs.julialang.org/en/v1/stdlib/Pkg/)进行安装,
 
 ```julia
 (v1.0) pkg> add Images
