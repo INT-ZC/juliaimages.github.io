@@ -16,9 +16,7 @@ Images（可能加上其他一些包）或许就是所有你需要用来操作�
 
 ## 载入您的第一张图片
 
-在测试想法或者仅仅是跟随着文档操作的时候，有一些可以用来作业的图片会是很有用的。
-[测试图片](https://github.com/JuliaImages/TestImages.jl) 包为您提供了许多“标准图像”。
-如果您还没有安装它的话，使用 `pkg> add TestImages`。
+在测试想法或者仅仅是跟随着文档操作的时候，有一些可以用来作业的图片会是很有用的。[测试图片](https://github.com/JuliaImages/TestImages.jl) 包为您提供了许多“标准图像”。如果您还没有安装它的话，使用 `pkg> add TestImages`。
 
 要载入这个包当中的一张图片，使用：
 
